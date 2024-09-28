@@ -20,3 +20,8 @@ This project involves setting up Suricata as an Intrusion Detection System on a 
 ### Date: 2024-09-28
 - **Change:** Updated `HOME_NET` IP address in `suricata.yaml` to match my local network.
 - **Reason:** Configured to match my local network.
+
+## Recent Changes
+- Updated Suricata rules file (`suricata.rules`) to include necessary rules for network monitoring.
+- Verified Suricata configuration, resulting in successful operation.
+- Committed changes to the project on `2024-09-28`.
